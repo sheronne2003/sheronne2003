@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheronne Anjalee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Softwear enginering Student in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheronne2003&label=Profile%20views&color=0e75b6&style=flat" alt="sheronne2003" /> </p>
 
