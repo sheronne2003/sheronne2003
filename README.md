@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheronne2003" alt="sheronne2003" /></a> </p>
 
-- 🔭 I’m currently work on **jhdjh**
+- 🔭 I’m currently work on **My Diploma**
 
 - 🌱 I’m currently learning **Higher National Diploma in Information Technology, SLIATE Kegalle**
 
-- 👯 I’m looking to collaborate on **wdidi**
-
 - 🤝 I’m looking for help with **any thing**
-
-- 💬 Ask me about **wiji**
 
 - 📫 How to reach me **sheronneanjalee@gmail.com**
 
-- ⚡ Fun fact **call me sheronne**
+- ⚡ Fun fact **call me Sherone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,3 +27,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheronne2003&show_icons=true&locale=en" alt="sheronne2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheronne2003&" alt="sheronne2003" /></p>
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://x.com/ShadowAnji003?t=w9tEhbTldxzWJdUfV2pyIQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumailmohammed1" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sheronne.sheronneanjalee " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jumail.wm" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sheronne_anjalee/profilecard/?igsh=a3RzaGthaGtucWpl " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jumail_wm" height="30" width="40" /></a>
+</p>
