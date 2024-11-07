@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Higher National Diploma in Information Technology, SLIATE Kegalle**
 
-- 🤝 I’m looking for help with **any thing**
+- 🤝 I’m looking for help with **Any Thing**
 
 - 📫 How to reach me **sheronneanjalee@gmail.com**
 
-- ⚡ Fun fact **call me Sherone**
+- ⚡ Fun fact **call me Sheronne**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
