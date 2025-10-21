@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sheronneanjalee@gmail.com**
 
-- ⚡ Fun fact **call me Sheronne**
+- ⚡ Fun fact **call me Shero**
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
