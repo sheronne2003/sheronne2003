@@ -42,4 +42,4 @@
   
 </p>
 
-<h5 align="center">✨ Thanks for visit! 🚀</h5>
+<h5 align="center">🌟 Thanks for visit! 🌟</h5>
