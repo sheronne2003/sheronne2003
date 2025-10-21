@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheronne Anjalee!</h1>
 <h2 align="center">🎓 Undergraduate | 💻 Web Developer | 📍 Always Learning</h2>
-<h5 allign="center"><b>👨‍💻 About Me</b>
+<h5 allign="center"><b>👨‍💻 About Me</b></h5>
 
-Hi there! I'm a passionate web development student focused on building modern, responsive, and user-friendly websites. I’m currently learning HTML, CSS, JavaScript, React, Python, Java, MySQL, and Figma—turning creative ideas into real-world digital experiences.
+<h5 allign="center">Hi there! I'm a passionate web development student focused on building modern, responsive, and user-friendly websites. I’m currently learning HTML, CSS, JavaScript, React, Python, Java, MySQL, and Figma—turning creative ideas into real-world digital experiences.
 
 🎯My goal is to become a front-end developer and make a positive impact through meaningful projects.</h5>
 
