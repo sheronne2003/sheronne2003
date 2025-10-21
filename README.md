@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheronne Anjalee!</h1>
 <h2 align="center">🎓 Undergraduate | 💻 Web Developer | 📍 Always Learning</h2>
-<h5 allign="center">**👨‍💻 About Me**</h5>
+<h5 allign="center">👨‍💻 About Me</h5>
 
 <h5 allign="center">📌Hi there! I'm a passionate web development student focused on building modern, responsive, and user-friendly websites. I’m currently learning HTML, CSS, JavaScript, React, Python, Java, MySQL, and Figma—turning creative ideas into real-world digital experiences.
 
@@ -39,6 +39,5 @@
 <a href="https://x.com/ShadowAnji003?t=w9tEhbTldxzWJdUfV2pyIQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumailmohammed1" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sheronne.sheronneanjalee " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jumail.wm" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sheronne_anjalee/profilecard/?igsh=a3RzaGthaGtucWpl " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/jumail_wm" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/sheronne-anjalee-premachandra-752341284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="![WhatsApp Image 2025-10-21 at 14 45 05_3c410ca7](https://github.com/user-attachments/assets/54ebceaa-a00d-40c8-85ae-c99944524607)
-" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sheronne-anjalee-premachandra-752341284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="![Linkedin](https://github.com/user-attachments/assets/8bba1bfa-6113-4e93-8f2f-4a0943c6f2a4)" height="30" width="40" /></a>
 </p>
