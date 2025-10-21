@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheronne2003&" alt="sheronne2003" /></p>
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
 <a href="https://x.com/ShadowAnji003?t=w9tEhbTldxzWJdUfV2pyIQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jumailmohammed1" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sheronne.sheronneanjalee " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jumail.wm" height="30" width="40" /></a>
